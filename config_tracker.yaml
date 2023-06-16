@@ -1,0 +1,18 @@
+ST_LT_modulation: concatenation
+Use_LT_memory: true
+ST_Mem:
+  size: 1
+  freq: 1
+  Get_adjacent_frame_into_the_mix_flag: false
+  use_cosine_sim: true
+LT_Mem:
+  size: 20
+  freq: 10
+  similarity_bound: 0.5
+  method: 'static lower bound'
+  init_method: Every_M
+  keep_annotated_frame_in_LT_memory: true
+  Use_affinity: true
+  Use_tukey_window: false
+  use_cosine_sim: true
+use_affinity_base: false
