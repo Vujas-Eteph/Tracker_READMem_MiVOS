@@ -4,6 +4,7 @@
 - "Conda_environment.txt" ( Filter the list to the essential packages only)
 - Check that the commands work
 - Don't use hard paths, find an alternative
+- Add the results of the framework
 
 ## Setting up the environment:
 Create a conda environment and install the needed packages.
