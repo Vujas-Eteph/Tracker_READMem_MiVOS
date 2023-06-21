@@ -30,7 +30,7 @@ Set up the workspace with the vots_2023 stack and integrate/test the tracker
 ```console
 cd ../../
 vot initialize vots2023 --workspace workspace_VOTS_2023
-cp Tracker_READMem_MiVOS/trackers.ini trackers.ini
+cp Tracker_READMem_MiVOS/trackers.ini workspace_VOTS_2023/trackers.ini
 ln -s Tracker_READMem_MiVOS workspace_VOTS_2023/Tracker_READMem_MiVOS
 ```
 Before going further, adapt the paths:
