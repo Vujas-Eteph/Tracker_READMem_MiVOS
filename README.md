@@ -72,7 +72,7 @@ Here is a [link](https://github.com/Vujas-Eteph/Tracker_READMem_MiVOS/blob/main/
 
 --------
 
-If you find this work useful, please consider citing the original paper:
+If you find this work helpful/useful, please consider citing the original paper:
 ```bibtex
 @misc{vujasinović2023readmem,
       title={READMem: Robust Embedding Association for a Diverse Memory in Unconstrained Video Object Segmentation}, 
