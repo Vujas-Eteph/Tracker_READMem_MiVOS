@@ -25,9 +25,9 @@ import integration.python.vot as vot_py
 # - LOADING CHECKPOINTS AND CONFIGURATIONS -
 print(f'Current directory: {os.getcwd()}')
 # ABSOLUTE PATH TO THE MIVOS PROPAGATION MODEL WEIGHTS
-pseudo_arg_model = '/home/ste03528/WORK_Station/VOTS/workspace_test/Tracker_READMem_MiVOS/MiVOS/saves/propagation_model.pth'
+pseudo_arg_model = '/home/ste03528/WORK_Station/VOTS/workspace_VOTS_2023/Tracker_READMem_MiVOS/MiVOS/saves/propagation_model.pth'
 # ABSOLUTE PATH TO THE CONFIGURATION FILE
-pseudo_arg_mem_configuration = '/home/ste03528/WORK_Station/VOTS/workspace_test/Tracker_READMem_MiVOS/config_tracker.yaml'
+pseudo_arg_mem_configuration = '/home/ste03528/WORK_Station/VOTS/workspace_VOTS_2023/Tracker_READMem_MiVOS/config_tracker.yaml'
 
 # MiVOS intrinsic configs.
 pseudo_no_top = False
