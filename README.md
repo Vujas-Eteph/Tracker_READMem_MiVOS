@@ -46,13 +46,14 @@ You should get the following output message: ```Test concluded successfully```
 
 Now let's evaluate the tracker on the vots_2023 stack
 ```console
-vot evaluate --workspace workspace_VOTS_2023/ Tracker_READMem_MiVOS
+cd ..
+vot evaluate --workspace workspace_VOTS_2023 Tracker_READMem_MiVOS
 ```
 
 After a while (approx. 35 hours), we can run the analysis and pack the results to sent to the server:
 ```console
-vot analysis --workspace workspace_VOTS_2023/ Tracker_READMem_MiVOS
-vot pack --workspace workspace_VOTS_2023/ Tracker_READMem_MiVOS
+vot analysis --workspace workspace_VOTS_2023 Tracker_READMem_MiVOS
+vot pack --workspace workspace_VOTS_2023 Tracker_READMem_MiVOS
 ```
 
 ## History
