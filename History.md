@@ -7,4 +7,4 @@
 
 
 Experiment details
-#1 Apply our baseline pipeline (based on READMem-MiVOS) as is for tracking.
+#1 Apply our baseline pipeline (based on READMem-MiVOS) as is for tracking. This setup achieved #36/44 valid submissions in the VOTS2023 Challenge.
