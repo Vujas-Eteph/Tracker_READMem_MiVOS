@@ -1,5 +1,7 @@
 # VOTS 2023 Submission of READMem-MiVOS
 
+This is our Tracker submission for the VOTS2023 Challenge.
+
 :fire: TODO : 
 - "Conda_environment.txt" ( Filter the list to the essential packages only)
 - Don't use hard paths, find an alternative
