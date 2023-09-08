@@ -67,6 +67,7 @@ vot pack --workspace workspace_VOTS_2023 Tracker_READMem_MiVOS
 Here is a [link](https://github.com/Vujas-Eteph/Tracker_READMem_MiVOS/blob/main/History.md) to the number of attempts and their specificity - *i.e.*, what change we made to the original READMem_miVOS tracker that made the performance decrease or increase.
 
 ## Credits
+- [READMem](https://github.com/Vujas-Eteph/READMem) for the memory management
 - [MiVOS](https://github.com/hkchengrex/MiVOS) for the core-architecture 
 - [VOT challenge](https://www.votchallenge.net/) for providing the dataset
 
