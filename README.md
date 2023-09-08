@@ -1,5 +1,13 @@
 # VOTS 2023 Submission of READMem-MiVOS
 
+
+---
+🚧 TODO list:
+ - [ ] Clean the code (simplify and more readable)
+ - [ ] Clean the README file
+
+---
+
 This is our Tracker submission for the VOTS2023 Challenge.
 
 :fire: TODO : 
